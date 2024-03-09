@@ -22,7 +22,7 @@ R: 91
 ```
 
 ### Rodando o código:
-> No terminal código o seguinte comando:
+> No terminal digite o seguinte comando:
 ```
 go run .\EX01\main.go  
 ```
