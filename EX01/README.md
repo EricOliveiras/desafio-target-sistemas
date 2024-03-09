@@ -20,3 +20,9 @@ imprimir(SOMA);
 Ao final do processamento, qual será o valor da variável SOMA?
 R: 91
 ```
+
+### Rodando o código:
+> No terminal código o seguinte comando:
+```
+go run .\EX01\main.go  
+```
