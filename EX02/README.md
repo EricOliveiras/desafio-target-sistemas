@@ -5,7 +5,7 @@
 Esse número pode ser informado através de qualquer entrada de sua preferência ou pode ser previamente definido no código;
 
 ### Rodando o código:
-> No terminal código o seguinte comando:
+> No terminal digite o seguinte comando:
 ```
 go run .\EX02\main.go  
 ```
